@@ -1,19 +1,16 @@
 # Hi, I'm Majid Noorani 👋
 
-Senior Backend Engineer | AI Team Lead
-
-📍 Backend Engineer at Tapsi Garage  
-🧠 Former AI Team Lead (LLMs, RAG, Deep Learning)  
+Senior Backend Engineer | Former AI Team Lead
 
 ---
 
 ## 🏗 Tech Stack
 
 **Languages:**  
-Python • Golang • Java • TypeScript  
+Golang • Java • TypeScript • Python
 
 **Backend:**  
-Spring Boot • Gin • NestJS • Gin • Django • DRF • FastAPI
+Spring Boot • Gin • NestJS • Django • DRF • FastAPI
 
 **Infrastructure:**  
 Docker • Kubernetes • Nginx • Linux • CI/CD  
