@@ -1,6 +1,6 @@
 # Hi, I'm Majid 👋
 
-Backend Engineer | Former AI and Data science Engineer
+Software Engineer | Former AI and Data science Engineer
 
 ---
 
