@@ -1,6 +1,6 @@
 # Hi, I'm Majid 👋
 
-Senior Backend Engineer | Former AI Team Lead
+Backend Engineer | Former AI and Data science Engineer
 
 ---
 
